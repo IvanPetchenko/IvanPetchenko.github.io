@@ -52,7 +52,7 @@
         font-size:100%;
         vertical-align:baseline;
         background:transparent;
-        color: #ffffff;
+        color: #000000;
     }
 
     /* change colours to suit your needs */
@@ -89,7 +89,7 @@
         display:block;
         height:1px;
         border:0;   
-        border-top:1px solid #cccccc;
+        border-top:1px solid #000000;
         margin:1em 0;
         padding:0;
     }
